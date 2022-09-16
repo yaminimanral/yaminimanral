@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yamini-pixel!
-- 👀 I’m interested in UI/UX design and development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on small projects on front-end development.
+- 👀 I’m interested in UI/UX design and development, databases and software development.
+- 🌱 I’m currently learning more on databases and Java Swing.
+- 💞️ I’m looking forward to being more active here!
 - 📫 You can reach me via email on manralyamini@gmail.com!
 
 <!---
