@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamini-pixel!
-- 👀 I’m interested in UI/UX design and development, databases and software development.
-- 🌱 I’m learning MySQL Workbench and Java.
+- 👀 I’m interested in database management, ETL, analytics.
+- 🌱 I’m learning SQL, Python, R and Cybersecurity concepts.
 - 💞️ I’m looking forward to meaningful collaborations and new learnings!
 - 📫 You can reach me via email on manralyamini@gmail.com!
 <!---
