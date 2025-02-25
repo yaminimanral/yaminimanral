@@ -5,39 +5,42 @@
 <h3 align="center">Data Science @ Humanitarians.AI</h3>
 <h3 align="center">Boston, MA</h3>
 
-<ul>
-    <li> I’m interested in time-series analysis and predictions, natural language processing, large language models, and deep learning 📈. In my current role, I am working on developing AI agents to solve complex business problems.</li>
-    <li>I believe in continuous learning and exploration! 🌱 Recently, I completed some trainings on usage of TensorFlow and Neural Networks for prediction and analysis. </li>
-    <li>I’m looking forward to meaningful collaborations, connections and new learnings! 🫱🏻‍🫲🏻 Hit me up on my <a href = "mailto:manralyamini@gmail.com">email</a> or <a href="https://www.linkedin.com/in/yaminimanral/">LinkedIn</a> to start a conversation!  </li>
-</ul>
-
+<p align="center">
+    I’m interested in time-series analysis and predictions, natural language processing, large language models, and deep learning 📈. <br>In my current role, I am working on developing AI agents to solve complex business problems. <br>
+    I believe in continuous learning and exploration! 🌱 Recently, I completed some trainings on usage of TensorFlow and Neural Networks for prediction and analysis.<br>
+    I’m looking forward to meaningful collaborations, connections and new learnings! <br>🫱🏻‍🫲🏻 Hit me up on my <a href = "mailto:manralyamini@gmail.com">email</a> or <a href="https://www.linkedin.com/in/yaminimanral/">LinkedIn</a> to start a conversation! 
+</p> 
 
 <h3 align = "center">My Skills</h3>
 <h4 align = "center">Languages and Databases</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,r,java,c,cpp,mongodb" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=py,mysql,r,java,c,cpp,mongodb&theme=light" 
+        alt="Skills: Python, MySQL, R, Java, C, C++, MongoDB" />
   </a>
 </p>
 <h4 align = "center">Cloud Platforms</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=light" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=light" 
+        alt="Skills: AWS, GCP, Azure" />
   </a>
 </p>
 <h4 align = "center">Libraries</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,opencv,pytorch,sklearn,tensorflow" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=matlab,opencv,pytorch,sklearn,tensorflow&theme=light" 
+        alt="Skills: Matlab, OpenCV, PyTorch, Scikit-Learn, TensorFlow" />
   </a>
 </p>
 <h4 align = "center">Others</h4>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,eclipse,git,html,js,kali,laravel,linux,pycharm,ubuntu,unity,vscode,windows" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,js,laravel,css,bootstrap,eclipse,git,pycharm,ubuntu,unity,vscode,windows,kali,linux&theme=light" 
+        alt="Skills: HTML, JavaScript, Laravel, Bootstrap, Eclipse, Git, Pycharm, Ubuntu, Unity, VSCode, Windows, Linux, Kali" />
   </a>
 </p>
 
-
-<p align = "center"> TensorFlow Scikit-Learn Numpy Pandas BeautifulSoup Seaborn Matplotlib</p>
-<p align = "center"> Tableau PowerBI Alteryx</p>
+<h3 align="center">My Certificates </h3>
+<p align="center">Please go to <a href="https://github.com/yaminimanral/certificates">this repo</a> to see all of my certificates and my current learnings!</p>
